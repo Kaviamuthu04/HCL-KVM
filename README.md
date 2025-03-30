@@ -1,6 +1,6 @@
-# 🖥️ HCL-KVM-Virtualization  
+# HCL-KVM-Virtualization  
 
-## 🔥 Project Overview  
+## Project Overview  
 This project focuses on setting up **KVM-based Virtual Machines** with **shared memory communication** between guest OS instances. It is part of my **HCL Internship**, where I explored Linux virtualization and system performance testing using LTP (Linux Test Project).  
 
 ## ⚙️ **Key Features**  
